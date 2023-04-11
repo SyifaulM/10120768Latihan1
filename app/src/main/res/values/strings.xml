@@ -1,0 +1,31 @@
+<!--
+Tanggal pengerjaan : 8 april 2023
+nim : 10120768
+nama : Syifaul Mukminin
+Kelas : IF9
+-->
+<resources>
+    <string name="app_name">DigiTeam</string>
+    <string name="app_desc">Digital Together Everyone Achieve More</string>
+    <string name="app_company">Jabar Digital Service</string>
+    <string name="name">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="job">UI Designer</string>
+    <string name="card2_title">Jam Kerja Bulan Ini</string>
+    <string name="card2_subtitle">Jam kerja bulan ini: 130.53 Jam</string>
+    <string name="total_hour">130.53 JAM</string>
+    <string name="min_hour">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="button1">Checkin</string>
+    <string name="card3_title">Laporan Kamu</string>
+    <string name="march">Maret</string>
+    <string name="april">April</string>
+    <string name="button2">Buat Laporan</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+    <string name="app_logo">App Logo</string>
+    <string name="prof_pict">Profile picture</string>
+    <string name="clock_logo">Logo Jam</string>
+</resources>
